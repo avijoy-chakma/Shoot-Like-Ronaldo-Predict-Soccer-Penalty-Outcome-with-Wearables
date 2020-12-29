@@ -1,0 +1,11 @@
+================= Folder Organization ====================================
+
+Deep Learning: This folder contains the required files for the deep model mentioned in the paper. 
+
+Deep Learning\Dataset: Contains participant-specific files. Each file contains 6 differently directed penalty-shots for specific participants.
+
+Deep Learning\Model: Feature extractor and fully connected layer models. 
+
+Deep Learning\Preprocessed Dataset: Splitted Participant-specific datasets (tains-valid-test)
+
+Deep Learning\Training.ipynb: Running and testing the deep leanrning model
