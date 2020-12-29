@@ -1,0 +1,63 @@
+RG RG start = 343670 end = 343740
+RG RG start = 345930 end = 346005
+RG RM start = 348170 end = 348235
+RG MG start = 350432 end = 350500
+RG PM start = 352845 end = 352915
+RG RG start = 355995 end = 356065
+RG RG start = 358525 end = 358605
+RG RG start = 360623 end = 360680
+RG RG start = 363290 end = 363345
+RG PM start = 366165 end = 366230
+RG MG start = 370040 end = 370100
+RT RT start = 374850 end = 374910
+RT RG start = 377340 end = 377400 [Fast paced]
+RT RT start = 379960 end = 380035
+RT Miss start = 382280 end = 382340
+RT RT start = 385625 end = 385705
+RT RT start = 387630 end = 387705
+RT RT start = 390135 end = 390205
+RT Miss start = 392195 end = 392285
+RT RT start = 396370 end = 396450
+RT RT start = 398265 end = 398350
+RT RT start = 400710 end = 400805
+LG LG start = 409170 end = 409260
+LG LG start = 411845 end = 411920
+LG LG start = 414365 end = 414450
+LG LM start = 416780 end = 416880
+LG LG start = 419095 end = 419200
+LG LT start = 421475 end = 421570
+LG LG start = 423540 end = 423630
+LG LG start = 425750 end = 425850
+LG Miss start = 428335 end = 428440
+LG LG start = 430565 end = 430665
+LT PM start = 433220 end = 433305
+LT LM start = 435010 end = 435105
+LT LG start = 437390 end = 437490
+LT Miss start = 440122 end = 440215 [Above post]
+LT Miss start = 442335 end = 442425
+LT LM start = 446165 end = 446275
+LT LT start = 449580 end = 449680
+LT Miss start = 452175 end = 452280 [Above post]
+LT LT start = 455515 end = 455660
+LT LT start = 458295 end = 458425
+LT LM start = 461115 end = 461190
+MG MG start = 463140 end = 463230
+MG MM start = 465645 end = 465720
+MG MM start = 467580 end = 467670
+MG MM start = 470155 end = 470245
+MG MG start = 472305 end = 472395
+MG MG start = 474275 end = 474355
+MG MM start = 477025 end = 477125
+MG MG start = 479070 end = 479150
+MG MM start = 480855 end = 480930
+MG MG start = 483360 end = 483460
+MT MG start = 486560 end = 486650 [Power shot]
+MT PM start = 488910 end = 489010
+MT LG start = 491390 end = 491470
+MT MM start = 493900 end = 493990
+MT MM start = 496240 end = 496350
+MT MM start = 499030 end = 499160
+MT MG start = 501050 end = 501150 [Power]
+MT MT start = 503780 end = 503930
+MT MT start = 505635 end = 505755
+MT Miss start = 507390 end = 507500 [Above post]
